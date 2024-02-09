@@ -7,7 +7,6 @@ UFID: 50341980
 ## Assignment Description
 Assignment0 for the CIS6930 course involves creating a Python script to streamline the collection of incident summary data from the Norman Police Department's website. The script downloads incident PDFs, extracts relevant details, stores them in an SQLite database, and provides summary information. The project includes comprehensive unit tests and documentation to ensure code quality.
 
-## How to install
 ## How to Install 
 1. Clone repository to your local machine:
 ```sh
