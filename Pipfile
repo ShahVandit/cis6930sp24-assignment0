@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pypdf = "*"
+requests = "*"
+pytest = "*"
+assignment0 = {file = ".", editable = true}
+beautifulsoup4 = "*"
+
+[requires]
+python_version = "*"
+
+[dev-packages]
+requests = "*"
+beautifulsoup4 = "*"
+pypdf = "*"
