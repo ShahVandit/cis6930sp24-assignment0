@@ -1,17 +1,16 @@
-# cis6930sp24 -- Assignment0 
+# Data-Engineering-Incident-scrapper  
 
 ## Name:
-Vandit Arvind Shah  
-UFID: 50341980
+Vandit Arvind Shah
 
-## Assignment Description
-Assignment0 for the CIS6930 course involves creating a Python script to streamline the collection of incident summary data from the Norman Police Department's website. The script downloads incident PDFs, extracts relevant details, stores them in an SQLite database, and provides summary information. The project includes comprehensive unit tests and documentation to ensure code quality.
+## Project Description
+This project involves creating a Python script to streamline the collection of incident summary data from the Norman Police Department's website. The script downloads incident PDFs, extracts relevant details, stores them in an SQLite database, and provides summary information. The project includes comprehensive unit tests and documentation to ensure code quality.
 
 ## How to Install 
 1. Clone repository to your local machine:
 ```sh
-$ git clone https://github.com/ShahVandit/cis6930sp24-assignment0
-$ cd cis6930sp24-assignment0
+$ git clone https://github.com/ShahVandit/data-engineering-incident-scrapper
+$ cd data-engineering-incident-scrapper
 ```
 2. Using Pipenc and Installing prerequisites:
    $ pipenv install
